@@ -44,7 +44,7 @@ section {
 .video {
     flex: 1 1 30%;
     margin: 10px;
-    margin-left: 10px;
+    margin-left: 50px;
 }
 
 .video iframe {
